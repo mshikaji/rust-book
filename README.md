@@ -1,4 +1,4 @@
-# rust-book
+## rust-book
 code &amp; doc based on "The Rust Programming Language" (https://doc.rust-lang.org/stable/book/)
 
 ##`cargo` intro
@@ -8,7 +8,7 @@ code &amp; doc based on "The Rust Programming Language" (https://doc.rust-lang.o
 * `cargo check` builds the project *without* producing binaries (speeds development FTW!)
 * `cargo build --release` builds *optimized* binaries and places them in `target\release`
 
-##Guessing Game
+## Guessing Game
 * Rust imports some items (from the standard library?) into every program by default, this is called *the prelude*
 * `use` imports non-prelude items from libraries
 * a no-arg `main()` means no parameters
