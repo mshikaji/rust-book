@@ -1,7 +1,7 @@
-## rust-book
+# The Rust Programming Language
 code &amp; doc based on "The Rust Programming Language" (https://doc.rust-lang.org/stable/book/)
 
-##`cargo` intro
+## `cargo` intro
 * `cargo new <project name>` creates a new rust project and associated cargo files. `Cargo.toml` file contains project and dependency info
 * `cargo build` builds the project binaries and places them in `target\debug`
 * `cargo run` runs executables in `target\debug` (how do you run executables in `target\release`?)
